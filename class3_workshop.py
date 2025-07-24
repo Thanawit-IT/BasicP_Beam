@@ -30,7 +30,7 @@ while True :
                 
             if Weapon_choice == 2:
 
-                Rung_Pom = Rung_Pom = Rung_Pom - Gun
+                Rung_Pom = Rung_Pom - Gun
 
                 if Rung_Pom == 0 :
                     print("Rung_Pom Died")
